@@ -5,12 +5,12 @@
  *
  * Java is a tricky language to learn, because performing even simple tasks can require the use of many keywords
  * and concepts which you may be unfamiliar with. Don't worry about memorizing everything here - the concepts will
- * make sense in time.
+ * make sense in time. You can always refer back to this file as a general anatomy of the parts of Java.
  *
- * Let's begin. This file is a CLASS. A CLASS is a blueprint for generating an OBJECT. For now, you can think of a
- * Class as its own program, whose functionality gets executed when one of its methods gets used. A method is
- * something that an Object can 'do'. Objects contain states (variables) and behavior (methods). More on methods
- * below.
+ * Let's begin. This file is a CLASS. A CLASS is a blueprint for generating something called an OBJECT. For now,
+ * you can think of a Class as its own program, whose code is executed when one of its methods gets used once the
+ * Class is in a state that is usable by Java as an Object. A method is something that an Object can 'do'. Objects
+ * contain states (variables) and behavior (methods). More on methods below.
  *
  * The public keyword here is an access modifiers. The access modifier affects if the class, variable,
  * or method is visible outside this class (in other files). Public is used here to designate this class as
