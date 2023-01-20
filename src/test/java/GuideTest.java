@@ -40,7 +40,7 @@ public class GuideTest {
         g = new Guide(1);
     }
     /**
-     *  The @Test annotation defines a method that will be used as a test. All tests will be run automatically
+     *  The Test annotation defines a method that will be used as a test. All tests will be run automatically
      *  when the application gets tested. In a test, we must define certain inputs and some expected output,
      *  and compare it to the actual behavior of our object. A human testing the application manually would be
      *  doing the same thing. We use the Assert method (which we import from junit at the top of this file) to
